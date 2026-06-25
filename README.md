@@ -67,13 +67,6 @@ Designed and developed a responsive portfolio website to showcase projects, tech
 * Improving application performance and user experience
 * Contributing to meaningful development projects
 
-## 📫 Connect With Me
-
-* GitHub: github.com/shubham-kumars
-* LinkedIn: Your LinkedIn Profile
-* Email: Your Email
-
-"Code. Learn. Build. Improve. Repeat."
 
 ### 📫 Connect With Me
 
