@@ -1,46 +1,79 @@
 # Hi 👋, I'm Shubham Kumar
 
-### 🚀 Aspiring MERN Stack Developer from India
+### Full Stack Developer | MERN Stack Developer
 
-I'm a passionate Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications. I love turning ideas into real-world projects and continuously improving my development skills.
+Passionate Full Stack Developer with hands-on experience in building modern web applications using the MERN Stack. Skilled in developing responsive user interfaces, designing RESTful APIs, managing databases, and delivering scalable solutions that provide excellent user experiences.
 
-### 🌱 Currently Learning
+## 🚀 About Me
 
-* Advanced React.js
-* Node.js & Express.js
+* 💻 Full Stack Developer specializing in MERN Stack development
+* 🌐 Building responsive and performance-focused web applications
+* 🔍 Strong interest in software engineering and problem-solving
+* 📚 Consistently improving development and system design skills
+* 🤝 Actively seeking internships, full-time software development roles, and opportunities to contribute to impactful projects.
+
+## 🛠️ Technical Skills
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST API Development
+
+### Databases
+
 * MongoDB
+* MySQL
+* SQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+## 🚀 Featured Projects
+
+### ConnectMe – Social Media Platform
+
+Developed a full-stack social media application with secure authentication, user profiles, content sharing, and modern responsive design using the MERN Stack.
+
+### Portfolio Website
+
+Designed and developed a responsive portfolio website to showcase projects, technical skills, and professional achievements.
+
+## 🎯 Areas of Interest
+
+* Full Stack Development
+* Web Application Architecture
+* API Development
+* Database Design
+* Performance Optimization
 * Data Structures & Algorithms
-* System Design Fundamentals
 
-### 💻 Tech Stack
+## 📈 What I'm Focused On
 
-* Frontend: HTML, CSS, JavaScript, React.js
-* Backend: Node.js, Express.js
-* Database: MongoDB
-* Tools: Git, GitHub, VS Code, Postman
+* Building scalable production-ready applications
+* Writing clean, maintainable, and efficient code
+* Improving application performance and user experience
+* Contributing to meaningful development projects
 
-### 🚀 Featured Projects
+## 📫 Connect With Me
 
-#### ConnectMe
+* GitHub: github.com/shubham-kumars
+* LinkedIn: Your LinkedIn Profile
+* Email: Your Email
 
-A full-stack social media platform with authentication, user profiles, posts, and real-time interactions.
-
-#### Portfolio Website
-
-A personal portfolio showcasing my projects, skills, and development journey.
-
-### 🎯 Goals for 2026
-
-* Master the MERN Stack
-* Strengthen DSA & Problem Solving
-* Contribute to Open Source
-* Secure a Full-Stack Developer Role
-
-### 📈 What I'm Working On
-
-* Building production-ready MERN applications
-* Improving React performance and architecture skills
-* Practicing coding challenges regularly
+"Code. Learn. Build. Improve. Repeat."
 
 ### 📫 Connect With Me
 
